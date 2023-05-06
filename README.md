@@ -38,6 +38,6 @@ Kekurangan Dalam Projek Ini :
 1. Kami Tidak Dapat Melakukan Hosting Pada Projek Kami
 2. Kami Tidak Dapat Melakukan Commit List Pada Akun GitHub Kami Masing-Masing Dikarenakan Pada Saat Melakukan Commit Terdapat Error
 
-Tampilan Error => 
+Tampilan Error => https://drive.google.com/file/d/14V0BvI3wjfZ58fT22QkfjveVGduDKDAK/view?usp=share_link
 
 
