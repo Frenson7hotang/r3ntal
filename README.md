@@ -1,8 +1,11 @@
 # r3ntal
 Kelompok laravel 1
 Nama : Frenson Sihotang
+
        Farhan Mulyawan Nagantara
+       
        Riski Sianturi
+       
        Ruben Febrian
        
        LINK VIDEO => https://drive.google.com/file/d/1QUBHPY1GEPRhrA_-40lKYHD2buVXTnYx/view?usp=share_link
