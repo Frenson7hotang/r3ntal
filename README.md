@@ -3,9 +3,7 @@
 Anggota Kelompok 2 (Kelas 1) :
 
 Frenson Sihotang
-
 Farhan Mulyawan Nagantara
-
 Riski Sianturi       
 Ruben Febrian
        
